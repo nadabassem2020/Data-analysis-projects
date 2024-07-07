@@ -1,0 +1,1 @@
+![dashboard preview](https://github.com/nadabassem2020/Data-analysis-projects/blob/main/Project%201%20-%20Sales%20Data%20Analysis/Capture.PNG)

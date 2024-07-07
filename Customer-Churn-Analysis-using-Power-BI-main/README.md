@@ -1,0 +1,2 @@
+![dashboard preview](https://github.com/nadabassem2020/Data-analysis-projects/blob/main/Customer-Churn-Analysis-using-Power-BI-main/Churn%20dashboard.PNG)
+![dashboard preview](https://github.com/nadabassem2020/Data-analysis-projects/blob/main/Customer-Churn-Analysis-using-Power-BI-main/customer%20risk%20analysis.PNG)
